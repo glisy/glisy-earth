@@ -1,7 +1,7 @@
 {
   "name": "glisy-earth",
-  "version": "0.0.1",
-  "repo": "glisy/earth",
+  "version": "0.0.2",
+  "repo": "glisy/glisy-earth",
   "description": "Glisy example rendering glsl-earth and using glsl-fog for fade in effects.",
   "keywords": [
     "glsl",
